@@ -1,6 +1,6 @@
 # Feedback on Elevator Speech
 
-From Professor Allen:
+## From Professor Allen:
 
 Q: What is the time frame of the punishment?  
 A: Not specified.. Could be interesting to try changing?
@@ -11,12 +11,14 @@ A: Covered in cost Cm
 Note: One advantage of having the government be the enforcers is simplicity of not having to test the water and understand the issues.
 
 
-Jacob's thoughts:
+## Jacob's thoughts:
+
 1. Even though the paper discusses variability in the parameters, could we explore this further? (Particularly, how do others benefit from a better environment? Or is that covered with the D values?)
 2. What if we make a cool playground UI? 
 3. What if we try to introduce the idea of natural disasters? They could happen at random or controlled intervals based on our study angle.
 4. I think this simulation lends itself to adding more, or asking about different scenarios. People really liked that it's applicable to the real world. They want us to make the simulations realistic.
 
+## From Peers:
 
 Great Presentation! I am interested to see if there are equilibria where the agents will not converge on some strategy.
 A: according to the paper, "In asymmetric games, if the condition of information asymmetry is met, the evolution stable strategy is a pure strategy. Based on this, this study only discusses the 8 pure strategy Nash equilibrium points that satisfy the replication dynamic differential equations"
